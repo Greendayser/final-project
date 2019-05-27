@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: a16ba081581529e44a605f8457e8a228
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 86fc3b091757ea1419716603d8465001
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SettingMenu.unity
+    guid: 952b010648b323042a4c95e59a796621
+  - enabled: 1
+    path: Assets/Scenes/PauseMenu.unity
+    guid: 78d1f42ad673323479b316f87725283e
+  - enabled: 1
+    path: Assets/Scenes/second_scene_all.unity
+    guid: 5f09939e6575e49418fc14f7a40f2c59
+  - enabled: 1
+    path: Assets/Scenes/first_scene_all.unity
+    guid: fbdefd8b4a9e2ea409874ed29b688736
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: f75b11852a5619844a4c1ca97a109ff5
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 87e5f84c7ecc66449a59598152ccdd4d
+  - enabled: 1
+    path: Assets/Scenes/third_scene.unity
+    guid: a50a5775bf792e04c993e9519fc6c42a
+  - enabled: 1
+    path: Assets/Scenes/animated_hero.unity
+    guid: 668197788a2c1b94ea904e7a56b396b0
+  m_configObjects: {}
